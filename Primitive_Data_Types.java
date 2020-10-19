@@ -33,3 +33,14 @@ public class Main{
       
       //when you are defining a byte the number on the right  should be a byte
       //    TYPE CASTING
+            
+            byte seecarefully  = (byte) (myByteMinValue/2);
+            short againsee = (short)(10000000*x+y+z);
+            
+            int x=100;
+            short y=100;
+            byte z= 100;
+            long sum = 5000l +10 L *( x+y +z);
+            
+      }
+}
