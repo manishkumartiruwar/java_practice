@@ -28,19 +28,19 @@
  public class Solve_Me_First{
          public static void main ( String args []){
          
-         Scanner  sc = new Scanner(System.in);
-        int a;
-              a = sc.nextInt();
+         Scanner  sc = new Scanner(System.in) ;
+        int a ;
+              a = sc.nextInt() ;
         int b;
-              b = sc.nextInt();
-        int sum;
-             sum = Solve_Me_First(a, b);
-        System.out.println(sum);
+              b = sc.nextInt() ;
+        int sum ;
+             sum = Solve_Me_First(a, b) ;
+        System.out.println(sum) ;
  }
  }
  public class int Solve_Me_First(int x, int y){
-       int sum=0;
-        sum=a+b;
-      return sum;
+       int sum = 0 ;
+        sum  =  a + b  ;
+      return sum ;
  }
-         
+         // make note of seeing scanner class in java documentation.
