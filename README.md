@@ -2,8 +2,5 @@
 
 
 
-complete java tutorial for java  10 oca
-  here is the basic layout 
-    basics    
-         1. HelloWorld
-         2. 
+java  10 oca
+ practice 
