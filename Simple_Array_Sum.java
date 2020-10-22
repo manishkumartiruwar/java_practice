@@ -23,6 +23,9 @@ we print the sum of the array's elements which is: 1+2+3+4+10+11 = 31.
 
 public class Simple_Array_Sum {
 
+   public static void main ( String args []){
+          
+     
 
-
+   }
 }
