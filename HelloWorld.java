@@ -1,8 +1,3 @@
-@MANISHKUMARTIRUWAR 10/22/2020 @ 1:07am (UTC)
-1. Implementation of classic HelloWorld which lead to understanding of Java   PrintStream  class   
-2. Credits to java foundation.
- 
-
 
 public class HelloWorld{
  public static void main( String args []){
