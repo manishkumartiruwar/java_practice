@@ -24,7 +24,7 @@
  */
  
  
- #include java.util.Scanner;  //  here we are including  class Scanner of java .
+ import java.util.Scanner;  //  here we are including  class Scanner of java .
 
 
 
