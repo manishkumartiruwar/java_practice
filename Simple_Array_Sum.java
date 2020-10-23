@@ -30,10 +30,10 @@ public class Simple_Array_Sum {
           
      Scanner Object = new Scanner(System.in);
      
-  int  N = Object.nextInt();
-  int  a[] =   new int[N];
-     for(int i=0 ; i<N ; i++){
-       a[i] = Object.nextInt();
+  int  N = Object.nextInt();    
+  int  a[] =   new int[N];    
+     for(int i=0 ; i<N ; i++){                   // to input an integer array of size N
+       a[i] = Object.nextInt();                  //array indexing starts at 0 to n-1    
      }
      
      int sum= 0;
