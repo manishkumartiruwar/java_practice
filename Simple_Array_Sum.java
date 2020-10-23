@@ -21,11 +21,29 @@ Explanation
 we print the sum of the array's elements which is: 1+2+3+4+10+11 = 31.
 */
 
+
+include java.util.scanner;
 public class Simple_Array_Sum {
 
    public static void main ( String args []){
+    
           
+     Scanner Object = new Scanner(System.in);
      
-
+  int  N = Object.nextInt();
+  int  a[] =   new int[N];
+     for(int i=0 ; i<N ; i++){
+       a[i] = Object.nextInt();
+     }
+     
+     int sum= 0;
+   for(int  j = 0 ; j < N ; j++)
+   {
+       sum = sum + a[j];
+     }   
+     System.out.println(sum);
    }
-}
+   }
+
+
+///make note of for loop used for inputing a array.
