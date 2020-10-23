@@ -69,4 +69,5 @@ nextShort()	used to input a short value from the user
 */
 
 
+
 // CREDITS hackerrank for the question.  
