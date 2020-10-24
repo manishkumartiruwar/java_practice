@@ -88,5 +88,8 @@ public class Compare_The_Triplets{
 public static void main(String args[]){
    Scanner Object = new Scanner(System.in);
 
+   
+   
+   
 }
 }
