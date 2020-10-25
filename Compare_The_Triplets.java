@@ -87,6 +87,21 @@ The return array is [2,1] .
 public class Compare_The_Triplets{
 public static void main(String args[]){
    Scanner Object = new Scanner(System.in);
+   int aScore = 0;
+   int aScore = 0;
+   
+   int a[] = new Int[3];
+   int b[] = new Int[3];
+    
+   for(int i= 0; i<3; i++){
+      int a = Object.nextInt();
+      if ( a<=100 && a>= 1){  a[i]= a; }
+      else { a[i] =0  ; }  
+     
+   for(int j= 0; j<3; j++){
+      int b = Object.nextInt();
+      if ( b<=100 && b>= 1){  b[j]= b; }
+      else { a[i] =0  ; } 
 
    
    
