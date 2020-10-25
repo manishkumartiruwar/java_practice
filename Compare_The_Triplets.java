@@ -83,28 +83,49 @@ The return array is [2,1] .
 
 
 
-#include java.util.Scanner;
+import java.util.Scanner;
 public class Compare_The_Triplets{
 public static void main(String args[]){
    Scanner Object = new Scanner(System.in);
    int aScore = 0;
-   int aScore = 0;
-   
-   int a[] = new Int[3];
-   int b[] = new Int[3];
+   int bScore = 0;
+   int aa = 0;
+   int bb = 0;
+   int [] a = new int[3];
+   int [] b = new int[3];
     
    for(int i= 0; i<3; i++){
-      int a = Object.nextInt();
-      if ( a<=100 && a>= 1){  a[i]= a; }
-      else { a[i] =0  ; }  
-     
+       aa = Object.nextInt();
+      if ( aa <= 100 && aa>= 1){  a[i]= 0; }
+      else { a[i] =aa  ; }  
+   }
    for(int j= 0; j<3; j++){
-      int b = Object.nextInt();
-      if ( b<=100 && b>= 1){  b[j]= b; }
-      else { a[i] =0  ; } 
-
+       bb = Object.nextInt();
+      if ( bb<=100 && bb>= 1){  b[j]= 0; }
+      else { b[j] =bb  ; } 
+      
+      }   
+      for(int k= 0; k<3; k++){
+         if (a[k] < b[k]) { aScore++;}
+         else if (a[k] > b[k]  ) { bScore++ ;}
+         else if(a[k] == b[k]  ) {;  }
+         
+      }
+        int [] c= new int[2];
+        c[0] = 0;
+        c[1] = 0;
+   
+         if ( aScore < bScore ) {   c[0] = 2;  c[1] = 1;
+         }
+          else if ( aScore > bScore ) {   c[0] = 1;  c[1] = 2;
+        }
+        else if ( aScore == bScore ) {   c[0] = 1;  c[1] =1;
+        }
+       
+   System.out.println ( "[ " + c[0] + "," + c [1]+"]");
    
    
    
 }
 }
+//
