@@ -42,20 +42,37 @@ You might need to use long int C/C++/Java to store such sums.
 */
 import java.util.Scanner;
 public class A_Very_Big_Sum {
-public static void main ( String args [] ){
 
-Scanner Object = new Scanner(System.in);
- int N=0;
- int n=0;
- int a[]= new int [N];
- long Sum = 0;
- 
- N= Object.nextInt();
- 
- if ( 1<=N && N<=10) { n= N; }
- else ( n =10;)
- 
- for (int j =0 ; j<n; j++){
- 
- 
- 
+	public static void main ( String args [] ){
+
+		Scanner Object1 = new Scanner(System.in);
+		 int N=0;
+		 int n=0;
+		
+		 long Sum = 0;
+		 int b=0;
+		 
+		 N= Object1.nextInt();
+		 
+		 if ( 0< N && N< 11) { n= N; }
+		 else {n =10;}
+		 int a[]= new int [n];
+		 
+		 
+		 
+		 for (int j = 0 ; j<n; j++){
+		     b = Object1.nextInt();
+		        if (b > 0   && b < 1000000000){
+		            a [j] = b  ; }
+		         else { a[j] = 0 ; }
+		        }
+		 
+		 
+		 for (int K =0 ; K<n; K++){
+		     Sum = Sum +  a [K];
+		     }
+
+		  
+		  System.out.println( Sum);
+		 }
+		}
