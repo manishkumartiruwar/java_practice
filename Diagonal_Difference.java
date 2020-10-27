@@ -81,4 +81,9 @@ for ( int j=0; j < N; j++){
 if ( b > -101 && b < 101){ a[i][j] = b ;}
 else    {a[j][k] = 0;} 
  }
-
+for ( int l = 0 ; l < n ;l ++){
+   SumFirstDiagonal = SumFirstDiagonal+a[l][l]
+}
+for ( int m = N-1 ; m > -1 ;m--){
+   SumSecondDiagonal= SumSecondDiagonal+a[m][m]
+}     
