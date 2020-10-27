@@ -66,7 +66,7 @@ Note: |x| is the absolute value of x
 
 import java.util.Scanner;
 public class Diagonal_Difference{
-public Static void main (String args[]){
+public static void main (String args[]){
 Scanner Object = new Scanner(System.in);
 int b= 0;
 int N  = 0 ;
@@ -74,16 +74,25 @@ N=Object.nextInt();
 int a[][] = new  int[N][N];
 int SumFirstDiagonal =0 ;
 int SumSecondDiagonal =0;   
+int difference= 0;
+int absoluteDifference = 0 ;
+
 
 for ( int j=0; j < N; j++){
  for ( int k=0; k < N; k++){
     b = Object.nextInt();
-if ( b > -101 && b < 101){ a[i][j] = b ;}
+if ( b > -101 && b < 101){ a[j][k] = b ;}
 else    {a[j][k] = 0;} 
- }
-for ( int l = 0 ; l < n ;l ++){
-   SumFirstDiagonal = SumFirstDiagonal+a[l][l]
+ }}
+for ( int l = 0 ; l < N ;l ++){
+   SumFirstDiagonal = SumFirstDiagonal+a[l][l];
 }
 for ( int m = N-1 ; m > -1 ;m--){
-   SumSecondDiagonal= SumSecondDiagonal+a[m][m]
+   SumSecondDiagonal= SumSecondDiagonal+a[m][m];
 }     
+difference = SumFirstDiagonal - SumSecondDiagonal;
+
+absoluteDifference = Math.abs(difference);
+System.out.println(absoluteDifference);
+}
+}
