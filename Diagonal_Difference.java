@@ -92,7 +92,8 @@ for ( int m = N-1 ; m > -1 ;m--){
 }     
 difference = SumFirstDiagonal - SumSecondDiagonal;
 
-absoluteDifference = Math.abs(difference);
+absoluteDifference = Math.abs(difference); // used to take absolute value of difference
 System.out.println(absoluteDifference);
 }
 }
+// taking note of maths class.
