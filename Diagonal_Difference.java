@@ -72,8 +72,13 @@ int b= 0;
 int N  = 0 ;
 N=Object.nextInt();
 int a[][] = new  int[N][N];
+int SumFirstDiagonal =0 ;
+int SumSecondDiagonal =0;   
 
 for ( int j=0; j < N; j++){
  for ( int k=0; k < N; k++){
-
+    b = Object.nextInt();
+if ( b > -101 && b < 101){ a[i][j] = b ;}
+else    {a[j][k] = 0;} 
+ }
 
