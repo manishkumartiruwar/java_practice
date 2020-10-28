@@ -1,7 +1,7 @@
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-public class MyClass {
+public class Regular_Expression1{
   public static void main(String[] args) {
     Pattern pattern = Pattern.compile("IndiaGate", Pattern.CASE_INSENSITIVE);
     Matcher matcher = pattern.matcher("Visit IndiaGate!!");
