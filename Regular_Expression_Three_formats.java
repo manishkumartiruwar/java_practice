@@ -12,5 +12,5 @@ boolean SecondWay=Pattern.compile(".b").matcher("ab").matches();
 //3rd way  
 boolean ThirdWay = Pattern.matches(".b", "ab");  
   
-System.out.println(b+" "+b2+" "+b3);  
+System.out.println(FirstWay+" "+SecondWay+" "+ThirdWay);  
 }}  
