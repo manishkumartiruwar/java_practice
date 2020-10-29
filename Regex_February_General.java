@@ -15,5 +15,17 @@ public class Regex_February_General{
       } else {
          System.out.println("Date is not valid");
       }
+      
+      
+      
+       Pattern pattern1 = Pattern.compile(regex);
+      //Matching the compiled pattern in the String
+      Matcher matcher1 = pattern1.matcher(date1);
+      boolean bool = matcher1.matches();
+      if(bool) {
+         System.out.println("Date is valid");
+      } else {
+         System.out.println("Date is not valid");
+      }
    }
 }
