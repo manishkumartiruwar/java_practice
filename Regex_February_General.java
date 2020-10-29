@@ -19,7 +19,7 @@ public class Regex_February_General{
       
       
        Pattern pattern1 = Pattern.compile(regex);
-      //Matching the compiled pattern in the String
+      //Matching the compiled pattern in the String1
       Matcher matcher1 = pattern1.matcher(date1);
       boolean bool = matcher1.matches();
       if(bool) {
