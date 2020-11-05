@@ -16,8 +16,9 @@ java  10 oca
 7.Diagonal_Difference.java
 8.Plus_Minus_Elements_Ratio.java
 9.Staircase.java
-10.Mini-Max_Sum.java
-11.Time Conversion
+10.Mini_Max_Sum.java
+11.Birthday_Cake_Candles.java
+12.Time Conversion
    
 
 
