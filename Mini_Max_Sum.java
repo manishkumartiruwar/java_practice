@@ -1,5 +1,5 @@
 /*
-Mini-Max_Sum
+Mini_Max_Sum
 
 Given five positive integers, find the minimum and maximum values that can be 
 calculated by summing exactly four of the five integers. 
