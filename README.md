@@ -15,46 +15,38 @@
  
 #### 2a.HelloNumbers.java 
       @manishkumartiruwar  10/22/2020 @ 1:07am (UTC) 
-      1. Implementation of classic HelloNumbers.java which lead to understanding of Java         Concepts. 
+      1. Implementation of classic HelloNumbers.java which lead to understanding of JavaConcepts. 
       2. Credits to java foundation. 
 
 #### 2b.Primitive\_Data\_Types.java 
     @manishkumartiruwar   11/06/2020 @ 3:49pm (UTC) 
-    1. Solving this problem in java has led to
-     understanding of literals and expressions. 2. Solving this problem in
-    java has led to understanding of size of int, byte, short and long.
+    1. Solving this problem in java has led to understanding of literals and expressions.
+    2. Solving this problem in java has led to understanding of size of int, byte, short and long.
 #### 3.Solve\_Me\_First.java 
-    @ MANISHKUMARTIRUWAR 10/23/2020 @ 3:47pm (UTC)
-    1. Solving this java program led to the usage of scanner class which
-    improved understanding of java concepts. 2. This question has been taken
-    from hackerrank library of algorithms. 
+     @ manishkumartiruwar 10/23/2020 @ 3:47pm (UTC)
+    1. Solving this java program led to the usage of scanner class which improved understanding of java concepts. 
+    2. This question has been taken from hackerrank library of algorithms. 
 #### 4.Simple\_Array\_Sum.java 
-      @MANISHKUMARTIRUWAR 10/23/2020 @ 3:55pm (UTC) 1. Solving this java
-      program led to the usage of scanner class which improved understanding
-      of java concepts. 2. Using for loop to input the array let to
-      understanding of array indexing in java. 3. This question has been taken
-      from hackerrank library of algorithms. 
+      @manishkumartiruwar 10/23/2020 @ 3:55pm (UTC)
+      1. Solving this java program led to the usage of scanner class which improved understandingof java concepts. 
+      2. Using for loop to input the array let to understanding of array indexing in java. 
+      3. This question has been taken from hackerrank library of algorithms. 
 #### 5.Compare\_The\_Triplets.java 
-    @MANISHKUMARTIRUWAR 10/23/2020 @ 3:55pm (UTC) 1. Solving this java
-    program led to the usage of scanner class which improved understanding
-     of java concepts. 2. Using for loop to input the array led to
-     understanding of array indexing in java. 3. Understanding limits of
-     duplicate variable names led to proper understanding of java variable
-    names. 
+    @manishkumartiruwar 10/23/2020 @ 3:55pm (UTC) 
+    1. Solving this java program led to the usage of scanner class which improved understanding of java concepts. 
+     2. Using for loop to input the array led to understanding of array indexing in java. 
+     3. Understanding limits of duplicate variable names led to proper understanding of java variable names. 
 #### 6.A\_Very\_Big\_Sum.java 
-     @ MANISHKUMARTIRUWAR 10/27/2020 @ 6:08pm (UTC)
-      1. Solving this java program led to the usage of different
-      variable types ,which improved understanding of java concepts. 2. Using
-     for loop to input the array let to understanding of array indexing in
-     java. 3. Use of different types of variables led to the proper
-     understanding of java memory sizes . 
+     @ manishkumartiruwar 10/27/2020 @ 6:08pm (UTC)
+      1. Solving this java program led to the usage of different variable types ,which improved understanding of java concepts. 
+      2. Using for loop to input the array let to understanding of array indexing in java. 
+      3. Use of different types of variables led to the proper understanding of java memory sizes . 
 #### 7.Diagonal\_Difference.java 
-     @ MANISHKUMARTIRUWAR 10/27/2020 @ 6:00pm (UTC) 1. Solving this java
-program led to the usage of loop concepts on matrix diagonals ,which
-improved understanding of java concepts. 2. Using for loop to input the
-array let to understanding of array indexing in java. 3. Use of
-Math.abs() led to the proper understanding of java concepts. 4.
-Prachi-kumar contributed to this project
+     @ manishkumartiruwar 10/27/2020 @ 6:00pm (UTC) 
+     1. Solving this java program led to the usage of loop concepts on matrix diagonals ,which improved understanding of java concepts. 
+     2. Using for loop to input the array let to understanding of array indexing in java. 
+     3. Use of Math.abs() led to the proper understanding of java concepts. 
+     4. Prachi-kumar contributed to this project
 #### 8.Plus\_Minus\_Elements\_Ratio.java 
 #### 9.Staircase.java
 #### 10.Mini\_Max\_Sum.java 
