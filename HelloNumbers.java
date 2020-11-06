@@ -1,3 +1,6 @@
+// this is the second program in the series
+// this should give us a introduction to integer data types in java.
+
 public class HelloNumbers{
    public static void main ( String args []) {
        int Number_Of_Fingers= 10;
