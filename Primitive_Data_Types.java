@@ -1,4 +1,4 @@
-public class Main{
+public class Primitive_Data_Types{
       public static void main ( String[] args ) {
        
        // literal is a number or variable without expressions; 
@@ -30,6 +30,7 @@ public class Main{
       
       //now lets 
       
+            
       
       //when you are defining a byte the number on the right  should be a byte
       //    TYPE CASTING
