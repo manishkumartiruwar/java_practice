@@ -2,7 +2,7 @@
 
 [@ manishkumartiruwar](https://github.com/manishkumartiruwar)
 
-// Thanks [@prachi-kumar](https://github.com/prachi-kumar) & [R2D2-git](https://github.com/R2d2-git)for helping ...
+// Thanks [@prachi-kumar](https://github.com/prachi-kumar) & [R2D2-git] (https://github.com/R2d2-git)for helping ...
 
 ## java 10 oca practice
 
