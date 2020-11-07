@@ -1,6 +1,6 @@
 # java_practice
 
-[@ manishkumartiruwar](#https://github.com/manishkumartiruwar)
+[@ manishkumartiruwar](https://github.com/manishkumartiruwar)
 
 // Thanks Prachi-kumar & R2D2-git for helping ...
 
