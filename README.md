@@ -62,6 +62,7 @@
 #### 20.regex\_grouping.java
 #### 21.regex\_matcher\_meathods.java 
 #### 22.regex\_matches\_vs\_find.java
-#### 23.regex\_number\_verifier.java 24.regex\_pattern\_meathods.java
+#### 23.regex\_number\_verifier.java 
+#### 24.regex\_pattern\_meathods.java
 
 ... // Thanks Prachi-kumar & R2D2-git for helping ...
