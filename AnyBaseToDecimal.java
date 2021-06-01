@@ -3,7 +3,7 @@
  
 import java.io.*;
 
-public class Main
+public class AnyBaseToDecimal
 {
 // To return value of a char.For example, 2 is returned  for 'A', 11 for 'B'
 
